@@ -10,5 +10,13 @@
   "devDependencies": {
     "mocha": "2.3.3",
     "unexpected": "10.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/One-com/node-docker-tools.git"
+  },
+  "homepage": "https://github.com/One-com/node-docker-tools",
+  "bugs": {
+    "url": "https://github.com/One-com/node-docker-tools/issues"
   }
 }
