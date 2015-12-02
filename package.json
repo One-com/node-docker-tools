@@ -1,5 +1,6 @@
 {
   "name": "docker-tools",
+  "description": "Tools for working with Docker containers in Node.js.",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
