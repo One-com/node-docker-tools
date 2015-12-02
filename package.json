@@ -2,6 +2,9 @@
   "name": "docker-tools",
   "version": "0.0.0",
   "main": "index.js",
+  "scripts": {
+    "lint": "onelint"
+  },
   "dependencies": {
     "dockerode": "2.2.3",
     "passerror": "1.1.1",
@@ -9,6 +12,7 @@
   },
   "devDependencies": {
     "mocha": "2.3.3",
+    "onelint": "0.0.6",
     "unexpected": "10.1.0"
   },
   "repository": {
