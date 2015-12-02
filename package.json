@@ -1,0 +1,14 @@
+{
+  "name": "@local/docker-compose",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dockerode": "2.2.3",
+    "passerror": "1.1.1",
+    "when": "3.7.4"
+  },
+  "devDependencies": {
+    "mocha": "2.3.3",
+    "unexpected": "10.1.0"
+  }
+}
