@@ -1,5 +1,5 @@
 {
-  "name": "@local/docker-compose",
+  "name": "docker-tools",
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
