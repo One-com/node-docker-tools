@@ -19,7 +19,7 @@ describe('lib/findNecessaryContainers', function () {
                 url: 'redis://{docker_host}:{docker_port}'
             }
         };
-        return expect(findNecessaryContainers(config), 'to equal', [
+        return expect(findNecessaryContainers(config), 'to satisfy', [
             {
                 name: 'test_redis',
                 docker: {
