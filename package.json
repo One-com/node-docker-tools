@@ -3,6 +3,8 @@
   "description": "Tools for working with Docker containers in Node.js.",
   "version": "0.0.2",
   "main": "index.js",
+  "author": "Gustav Nikolaj Olsen @gustavnikolaj <gno@one.com>",
+  "license": "BSD-3-Clause",
   "scripts": {
     "lint": "onelint",
     "test": "mocha"
